@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "lodash": "4.17.x",
-    "phaser": "3.22.x"
+    "phaser": "3.55.x"
   },
   "devDependencies": {
     "@types/copy-webpack-plugin": "5.0.x",
@@ -35,17 +35,17 @@
     "@types/webpack": "4.41.x",
     "@types/webpack-bundle-analyzer": "2.13.x",
     "@types/webpack-dev-server": "3.10.x",
-    "copy-webpack-plugin": "5.1.x",
+    "copy-webpack-plugin": "11.0.x",
     "jest": "25.3.x",
     "jest-extended": "0.11.5",
-    "source-map-loader": "0.2.4",
+    "source-map-loader": "4.0.1",
     "ts-jest": "25.4.0",
-    "ts-loader": "7.0.x",
+    "ts-loader": "9.4.x",
     "ts-node": "8.8.x",
     "typescript": "3.8.x",
-    "webpack": "4.42.x",
+    "webpack": "5.75.x",
     "webpack-bundle-analyzer": "3.7.x",
-    "webpack-cli": "3.3.x",
+    "webpack-cli": "5.0.x",
     "webpack-dev-server": "3.10.x"
   }
 }
